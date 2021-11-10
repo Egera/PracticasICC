@@ -5,7 +5,7 @@
  */
 public class Cilindro {
     /**
-     * Método main donde declaramos las variable y las operaciones necesarias
+     * Método main donde declaramos las variables y las operaciones necesarias
      * para calcular el área y volumen de un cilindro
      * @param args Los argumentos
      */
